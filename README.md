@@ -8,7 +8,7 @@ Check out the [live demo](http://flask-chat.herokuapp.com) or [read the docs](ht
 ### General description
 
 The whole TicTacToe game would be organised as such
-[diagram with wireframes for the game](img/wireframe.png)
+![diagram with wireframes for the game](img/wireframe.jpg)
 
 When one player clicks to play
 
