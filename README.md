@@ -8,7 +8,7 @@ Check out the [live demo](http://flask-chat.herokuapp.com) or [read the docs](ht
 ### General description
 
 The whole TicTacToe game would be organised as such
-<img src="img/wireframe.jpg" style="image-orientation: 90deg flip;" alt="Wireframes of the game" />
+<img src="img/wireframe.jpg" style="image-orientation: flip;" alt="Wireframes of the game" />
 
 When one player clicks to play:
 
