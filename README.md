@@ -8,10 +8,9 @@ Check out the [live demo](http://flask-chat.herokuapp.com) or [read the docs](ht
 ### General description
 
 The whole TicTacToe game would be organised as such
-<img src="img/wireframe.jpg" style="image-orientation: 90deg;" alt="diagram with wireframes for the game" />
+<img src="img/wireframe.jpg" style="image-orientation: 90deg flip;" alt="Wireframes of the game" />
 
-![diagram with wireframes for the game](img/wireframe.jpg)
-
+When one player clicks to play:
 
 1) Either another player is available to play
 * the `start-game` url of [backend-ttt](https://github.com/Eleonore9/backend-ttt) is called to createnew players and new game row
