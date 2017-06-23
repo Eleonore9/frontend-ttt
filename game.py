@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Chat Server
+Reuse a chat server for the game server
 ===========
 
 This simple application uses WebSockets to run a primitive chat server.
@@ -90,6 +90,3 @@ def outbox(ws):
     while not ws.closed:
         # Context switch while `ChatBackend.start` is running in the background.
         gevent.sleep(0.1)
-
-
-
